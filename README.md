@@ -62,5 +62,8 @@ These tables are linked using foreign keys and normalized to follow best practic
 
 ## 🖼Dashboard Preview
 
-![Dashboard Screenshot](![Movie Perfomance Dashboard](https://github.com/user-attachments/assets/4a393b2e-344d-42ad-9f48-99d043d67f11)
+Dashboard Screenshot(![Movie Perfomance Dashboard](https://github.com/user-attachments/assets/4a393b2e-344d-42ad-9f48-99d043d67f11)
 )
+ModelView Screeshot (![image](https://github.com/user-attachments/assets/a96cf4b8-a6da-48cc-ac04-28227e7eebde)
+)
+
