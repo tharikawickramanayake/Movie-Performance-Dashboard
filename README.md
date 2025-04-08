@@ -56,7 +56,6 @@ These tables are linked using foreign keys and normalized to follow best practic
 
 - `MovieDashboard.pbix` – Power BI dashboard file
 - `dashboard-screenshot.png` – image preview of the dashboard
-- (Optional) `SQL Scripts/` – folder containing SQL table creation scripts or queries
 
 ---
 
