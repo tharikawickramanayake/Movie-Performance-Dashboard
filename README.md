@@ -56,7 +56,7 @@ These tables are linked using foreign keys and normalized to follow best practic
 
 - `MovieDashboard.pbix` – Power BI dashboard file
 - `dashboard-screenshot.png` – image preview of the dashboard
-
+Scheduled refresh supported in Power BI Service (Pro), currently using manual refresh due to license limitations.
 ---
 
 ## 🖼Dashboard Preview
